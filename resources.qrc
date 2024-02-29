@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/plugins/siose_tools">
+  	<file>icons/st_01_ayuda.png</file>
+	<file>icons/st_02_seleccion.png</file>
+	<file>icons/st_03_coberturas.png</file>
+	<file>icons/st_04_usos.png</file>
+  </qresource>
+</RCC>

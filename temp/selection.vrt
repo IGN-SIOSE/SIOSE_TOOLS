@@ -1,0 +1,26 @@
+<OGRVRTDataSource>
+	<OGRVRTLayer name="siose_t_poligonos_input">
+		<SrcDataSource>C:/kk/28_MADRID.gpkg</SrcDataSource>
+		<SrcLayer>SAR_28_T_POLIGONOS</SrcLayer>
+	</OGRVRTLayer>
+	<OGRVRTLayer name="siose_t_valores_input">
+		<SrcDataSource>C:/kk/28_MADRID.gpkg</SrcDataSource>
+		<SrcLayer>SAR_28_T_VALORES</SrcLayer>
+	</OGRVRTLayer>
+	<OGRVRTLayer name="siose_t_usos_input">
+		<SrcDataSource>C:/kk/28_MADRID.gpkg</SrcDataSource>
+		<SrcLayer>SAR_28_T_USOS</SrcLayer>
+	</OGRVRTLayer>
+	<OGRVRTLayer name="siose_t_combinada_input">
+		<SrcDataSource>C:/kk/28_MADRID.gpkg</SrcDataSource>
+		<SrcLayer>SAR_28_T_COMBINADA</SrcLayer>
+	</OGRVRTLayer>
+	<OGRVRTLayer name="siose_tabla_plana_input">
+		<SrcDataSource>C:/kk/28_MADRID.gpkg</SrcDataSource>
+		<SrcLayer>SAR_28_TABLA_PLANA</SrcLayer>
+	</OGRVRTLayer>
+	<OGRVRTLayer name="siose_t_poligonos_output">
+		<SrcDataSource>c:\kk\28_madrid_majadahonda.gpkg</SrcDataSource>
+		<SrcLayer>SAR_T_POLIGONOS</SrcLayer>
+	</OGRVRTLayer>
+</OGRVRTDataSource>
