@@ -13,8 +13,8 @@ email=david.hernadez@uclm.es
 
 about=Este plugin permite consultar la cartografía SIOSE del IGN de una forma ágil, extrayendo las zonas de interés del usuario.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/IGN-SIOSE/SIOSE_TOOLS/issues
+repository=https://github.com/IGN-SIOSE/SIOSE_TOOLS.git
 # End of mandatory metadata
 
 # Recommended items:
@@ -26,7 +26,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/IGN-SIOSE/SIOSE_TOOLS
 category=Plugins
 icon=icon.png
 # experimental flag
