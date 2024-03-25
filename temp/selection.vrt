@@ -20,7 +20,7 @@
 		<SrcLayer>SAR_28_TABLA_PLANA</SrcLayer>
 	</OGRVRTLayer>
 	<OGRVRTLayer name="siose_t_poligonos_output">
-		<SrcDataSource>c:\kk\28_madrid_majadahonda.gpkg</SrcDataSource>
+		<SrcDataSource>c:\kk\28_madrid_brunete.gpkg</SrcDataSource>
 		<SrcLayer>SAR_T_POLIGONOS</SrcLayer>
 	</OGRVRTLayer>
 </OGRVRTDataSource>
