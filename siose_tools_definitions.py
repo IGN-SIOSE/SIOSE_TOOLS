@@ -9,7 +9,7 @@
         begin                : 2023-10-18
         git sha              : $Format:%H$
         copyright            : (C) 2023 by IGN-UCLM
-        email                : david.hernadez@uclm.es
+        email                : david.hernandez@uclm.es
  ***************************************************************************/
 
 /***************************************************************************
@@ -139,3 +139,4 @@ CONST_POR_SUFFIX = '_POR'
 CONST_SUPERF_HA = "SUPERF_HA"
 CONST_SUPERF_M2 = "SUPERF_M2"
 CONST_SUPERF_POR = "SUPERF_POR"
+
