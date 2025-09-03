@@ -9,7 +9,7 @@ qgisMinimumVersion=3.0
 description=Herramientas SIOSE.
 version=0.1
 author=IGN-UCLM
-email=david.hernadez@uclm.es
+email=david.hernandez@uclm.es
 
 about=Este plugin permite consultar la cartografía SIOSE del IGN de una forma ágil, extrayendo las zonas de interés del usuario.
 
