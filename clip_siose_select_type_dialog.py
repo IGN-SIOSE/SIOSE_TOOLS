@@ -9,7 +9,7 @@
         begin                : 2023-10-18
         git sha              : $Format:%H$
         copyright            : (C) 2023 by IGN-UCLM
-        email                : david.hernadez@uclm.es
+        email                : david.hernandez@uclm.es
  ***************************************************************************/
 
 /***************************************************************************
@@ -69,3 +69,4 @@ class ClipSioseSelectTypeDialog(QDialog, FORM_CLASS):
             SDefs.clip_type = SDefs.CONST_CLIP_TYPE_SIOSE_MAP_CANVAS
         if self.clipSioseSelectedFeatures.isChecked():
             SDefs.clip_type = SDefs.CONST_CLIP_TYPE_SIOSE_SELECTED_FEATURES
+
