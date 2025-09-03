@@ -8,7 +8,7 @@
                              -------------------
         begin                : 2023-10-28
         copyright            : (C) 2023 by IGN-UCLM
-        email                : david.hernadez@uclm.es
+        email                : david.hernandez@uclm.es
         git sha              : $Format:%H$
  ***************************************************************************/
 
