@@ -9,7 +9,7 @@
         begin                : 2023-10-18
         git sha              : $Format:%H$
         copyright            : (C) 2023 by IGN-UCLM
-        email                : david.hernadez@uclm.es
+        email                : david.hernandez@uclm.es
  ***************************************************************************/
 
 /***************************************************************************
@@ -1422,3 +1422,4 @@ class QueryCoveragesOrUsesDialog(QDialog, FORM_CLASS):
         # self.iface.mainWindow().repaint()
         # self.fillTabWidget()
         # self.iface.messageBar().clearWidgets()
+
